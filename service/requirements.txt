@@ -1,0 +1,2 @@
+# Runtime deps come from setup.py (requests). Optional browser cookie import:
+# browser_cookie3>=0.19.1
